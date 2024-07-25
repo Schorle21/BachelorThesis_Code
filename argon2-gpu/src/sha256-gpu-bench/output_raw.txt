@@ -1,0 +1,765 @@
+
+
+
+
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:1
+Total Threads:256
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 283528500 ns
+Computation time s: 0.283529 s
+Computation time: 283.528500 ms
+
+Mean Hash Rate s: 3.52698 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 2.83528e+08 ns
+Mean Time per Hash s: 0.283529 s
+Mean Time per Hash: 283.528500 ms
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:1
+Total Threads:256
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 241447200 ns
+Computation time s: 0.241447 s
+Computation time: 241.447200 ms
+
+Mean Hash Rate s: 8.28338 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 1.20724e+08 ns
+Mean Time per Hash s: 0.120724 s
+Mean Time per Hash: 120.723600 ms
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:1
+Total Threads:256
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 290525900 ns
+Computation time s: 0.290526 s
+Computation time: 290.525900 ms
+
+Mean Hash Rate s: 13.7681 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 7.26315e+07 ns
+Mean Time per Hash s: 0.0726315 s
+Mean Time per Hash: 72.631475 ms
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:1
+Total Threads:256
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 238403200 ns
+Computation time s: 0.238403 s
+Computation time: 238.403200 ms
+
+Mean Hash Rate s: 33.5566 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 2.98004e+07 ns
+Mean Time per Hash s: 0.0298004 s
+Mean Time per Hash: 29.800400 ms
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:1
+Total Threads:256
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 278746700 ns
+Computation time s: 0.278747 s
+Computation time: 278.746700 ms
+
+Mean Hash Rate s: 57.3998 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 1.74217e+07 ns
+Mean Time per Hash s: 0.0174217 s
+Mean Time per Hash: 17.421669 ms
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:1
+Total Threads:256
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 268547600 ns
+Computation time s: 0.268548 s
+Computation time: 268.547600 ms
+
+Mean Hash Rate s: 119.16 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 8.39211e+06 ns
+Mean Time per Hash s: 0.00839211 s
+Mean Time per Hash: 8.392112 ms
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:1
+Total Threads:256
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 278658800 ns
+Computation time s: 0.278659 s
+Computation time: 278.658800 ms
+
+Mean Hash Rate s: 229.672 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 4.35404e+06 ns
+Mean Time per Hash s: 0.00435404 s
+Mean Time per Hash: 4.354044 ms
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:1
+Total Threads:256
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 272087100 ns
+Computation time s: 0.272087 s
+Computation time: 272.087100 ms
+
+Mean Hash Rate s: 470.438 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 2.12568e+06 ns
+Mean Time per Hash s: 0.00212568 s
+Mean Time per Hash: 2.125680 ms
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:1
+Total Threads:256
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 265381800 ns
+Computation time s: 0.265382 s
+Computation time: 265.381800 ms
+
+Mean Hash Rate s: 964.648 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 1.03665e+06 ns
+Mean Time per Hash s: 0.00103665 s
+Mean Time per Hash: 1.036648 ms
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:2
+Total Threads:512
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 261447400 ns
+Computation time s: 0.261447 s
+Computation time: 261.447400 ms
+
+Mean Hash Rate s: 1958.33 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 510639 ns
+Mean Time per Hash s: 0.000510639 s
+Mean Time per Hash: 510.639453 us
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:1
+Total Threads:256
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 299219400 ns
+Computation time s: 0.299219 s
+Computation time: 299.219400 ms
+
+Mean Hash Rate s: 3.34203 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 2.99219e+08 ns
+Mean Time per Hash s: 0.299219 s
+Mean Time per Hash: 299.219400 ms
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:1
+Total Threads:256
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 272348200 ns
+Computation time s: 0.272348 s
+Computation time: 272.348200 ms
+
+Mean Hash Rate s: 7.34354 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 1.36174e+08 ns
+Mean Time per Hash s: 0.136174 s
+Mean Time per Hash: 136.174100 ms
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:1
+Total Threads:256
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 287847900 ns
+Computation time s: 0.287848 s
+Computation time: 287.847900 ms
+
+Mean Hash Rate s: 13.8962 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 7.1962e+07 ns
+Mean Time per Hash s: 0.071962 s
+Mean Time per Hash: 71.961975 ms
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:1
+Total Threads:256
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 259919800 ns
+Computation time s: 0.25992 s
+Computation time: 259.919800 ms
+
+Mean Hash Rate s: 30.7787 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 3.249e+07 ns
+Mean Time per Hash s: 0.03249 s
+Mean Time per Hash: 32.489975 ms
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:1
+Total Threads:256
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 264657300 ns
+Computation time s: 0.264657 s
+Computation time: 264.657300 ms
+
+Mean Hash Rate s: 60.4555 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 1.65411e+07 ns
+Mean Time per Hash s: 0.0165411 s
+Mean Time per Hash: 16.541081 ms
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:1
+Total Threads:256
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 317373400 ns
+Computation time s: 0.317373 s
+Computation time: 317.373400 ms
+
+Mean Hash Rate s: 100.828 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 9.91792e+06 ns
+Mean Time per Hash s: 0.00991792 s
+Mean Time per Hash: 9.917919 ms
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:1
+Total Threads:256
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 315833000 ns
+Computation time s: 0.315833 s
+Computation time: 315.833000 ms
+
+Mean Hash Rate s: 202.639 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 4.93489e+06 ns
+Mean Time per Hash s: 0.00493489 s
+Mean Time per Hash: 4.934891 ms
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:1
+Total Threads:256
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 344076500 ns
+Computation time s: 0.344077 s
+Computation time: 344.076500 ms
+
+Mean Hash Rate s: 372.01 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 2.6881e+06 ns
+Mean Time per Hash s: 0.0026881 s
+Mean Time per Hash: 2.688098 ms
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:1
+Total Threads:256
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 296815500 ns
+Computation time s: 0.296816 s
+Computation time: 296.815500 ms
+
+Mean Hash Rate s: 862.489 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 1.15944e+06 ns
+Mean Time per Hash s: 0.00115944 s
+Mean Time per Hash: 1.159436 ms
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:2
+Total Threads:512
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 287998900 ns
+Computation time s: 0.287999 s
+Computation time: 287.998900 ms
+
+Mean Hash Rate s: 1777.78 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 562497 ns
+Mean Time per Hash s: 0.000562498 s
+Mean Time per Hash: 562.497852 us
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:4
+Total Threads:1024
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 263919700 ns
+Computation time s: 0.26392 s
+Computation time: 263.919700 ms
+
+Mean Hash Rate s: 3879.97 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 257734 ns
+Mean Time per Hash s: 0.000257734 s
+Mean Time per Hash: 257.734082 us
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:8
+Total Threads:2048
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 293851100 ns
+Computation time s: 0.293851 s
+Computation time: 293.851100 ms
+
+Mean Hash Rate s: 6969.52 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 143481 ns
+Mean Time per Hash s: 0.000143482 s
+Mean Time per Hash: 143.481982 us
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:16
+Total Threads:4096
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 265457100 ns
+Computation time s: 0.265457 s
+Computation time: 265.457100 ms
+
+Mean Hash Rate s: 15430 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 64808 ns
+Mean Time per Hash s: 6.48089e-05 s
+Mean Time per Hash: 64.808862 us
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:32
+Total Threads:8192
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 291444300 ns
+Computation time s: 0.291444 s
+Computation time: 291.444300 ms
+
+Mean Hash Rate s: 28108.3 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 35576 ns
+Mean Time per Hash s: 3.55767e-05 s
+Mean Time per Hash: 35.576697 us
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:64
+Total Threads:16384
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 280875000 ns
+Computation time s: 0.280875 s
+Computation time: 280.875000 ms
+
+Mean Hash Rate s: 58332 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 17143 ns
+Mean Time per Hash s: 1.71432e-05 s
+Mean Time per Hash: 17.143250 us
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:128
+Total Threads:32768
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 255147800 ns
+Computation time s: 0.255148 s
+Computation time: 255.147800 ms
+
+Mean Hash Rate s: 128428 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 7786 ns
+Mean Time per Hash s: 7.78649e-06 s
+Mean Time per Hash: 7.786493 us
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:256
+Total Threads:65536
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 255995000 ns
+Computation time s: 0.255995 s
+Computation time: 255.995000 ms
+
+Mean Hash Rate s: 256005 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 3906 ns
+Mean Time per Hash s: 3.90617e-06 s
+Mean Time per Hash: 3.906174 us
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:512
+Total Threads:131072
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 277221500 ns
+Computation time s: 0.277222 s
+Computation time: 277.221500 ms
+
+Mean Hash Rate s: 472806 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 2115 ns
+Mean Time per Hash s: 2.11503e-06 s
+Mean Time per Hash: 2.115032 us
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:1024
+Total Threads:262144
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 296052200 ns
+Computation time s: 0.296052 s
+Computation time: 296.052200 ms
+
+Mean Hash Rate s: 885465 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 1129 ns
+Mean Time per Hash s: 1.12935e-06 s
+Mean Time per Hash: 1.129350 us
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:2048
+Total Threads:524288
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 267622400 ns
+Computation time s: 0.267622 s
+Computation time: 267.622400 ms
+
+Mean Hash Rate s: 1.95906e+06 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 510 ns
+Mean Time per Hash s: 5.10449e-07 s
+Mean Time per Hash: 510.449219 ns
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:4096
+Total Threads:1048576
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 281713000 ns
+Computation time s: 0.281713 s
+Computation time: 281.713000 ms
+
+Mean Hash Rate s: 3.72214e+06 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 268 ns
+Mean Time per Hash s: 2.68662e-07 s
+Mean Time per Hash: 268.662453 ns
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:8192
+Total Threads:2097152
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 310186400 ns
+Computation time s: 0.310186 s
+Computation time: 310.186400 ms
+
+Mean Hash Rate s: 6.76094e+06 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 147 ns
+Mean Time per Hash s: 1.47908e-07 s
+Mean Time per Hash: 147.908401 ns
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:16384
+Total Threads:4194304
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 327262800 ns
+Computation time s: 0.327263 s
+Computation time: 327.262800 ms
+
+Mean Hash Rate s: 1.28163e+07 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 78 ns
+Mean Time per Hash s: 7.80255e-08 s
+Mean Time per Hash: 78.025532 ns
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:32768
+Total Threads:8388608
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 389568800 ns
+Computation time s: 0.389569 s
+Computation time: 389.568800 ms
+
+Mean Hash Rate s: 2.15331e+07 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 46 ns
+Mean Time per Hash s: 4.64402e-08 s
+Mean Time per Hash: 46.440220 ns
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:65536
+Total Threads:16777216
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 513002600 ns
+Computation time s: 0.513003 s
+Computation time: 513.002600 ms
+
+Mean Hash Rate s: 3.2704e+07 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 30 ns
+Mean Time per Hash s: 3.05773e-08 s
+Mean Time per Hash: 30.577338 ns
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:131072
+Total Threads:33554432
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 910134400 ns
+Computation time s: 0.910134 s
+Computation time: 910.134400 ms
+
+Mean Hash Rate s: 3.68676e+07 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 27 ns
+Mean Time per Hash s: 2.71241e-08 s
+Mean Time per Hash: 27.124119 ns
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:262144
+Total Threads:67108864
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Finished computation
+
+Computation time ns: 1648169100 ns
+Computation time s: 1.64817 s
+Computation time: 1.648169 s
+
+Mean Hash Rate s: 4.07172e+07 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 24 ns
+Mean Time per Hash s: 2.45596e-08 s
+Mean Time per Hash: 24.559633 ns
+Generating password...
+Completed password generation.
+
+Threads:256
+Blocks:524288
+Total Threads:134217728
+
+Starting computation with a Theoretical Upper Thread Bound of: 70,656
+Error cuda sha256 hash: an illegal memory access was encountered 
+Finished computation
+
+Computation time ns: 844597500 ns
+Computation time s: 0.844598 s
+Computation time: 844.597500 ms
+
+Mean Hash Rate s: 1.58913e+08 hashes/second
+Mean Hash Rate ns: 0 hashes/ns
+
+Mean Time per Hash ns: 6 ns
+Mean Time per Hash s: 6.29274e-09 s
+Mean Time per Hash: 6.292742 ns

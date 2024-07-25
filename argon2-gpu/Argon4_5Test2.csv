@@ -1,0 +1,4 @@
+M_Kibibytes,Lanes,Batch_Size,TE_Threads_Per_Block,TE_Blocks,TE_Total_Threads,Time_Cost,Mean_CT,Mean_Deviation_CT,Mean_HT,Mean_Deviation_HT,TE_Upper_Thread_Limit
+1953125,2,1,,,,1,739.304320 ms,37.192124 ms,739.304320 ms,37.192124 ms,70656
+1953125,2,2,,,,1,1.547772 s,140.041444 ms,773.885935 ms,70.020722 ms,70656
+1953125,2,3,,,,1,2.478266 s,111.271192 ms,826.088703 ms,37.090397 ms,70656

@@ -1,0 +1,5 @@
+Batch_Size,TE_Threads_Per_Block,TE_Blocks,TE_Total_Threads,Time_Cost,Mean_CT,Mean_Deviation_CT,Mean_HT,Mean_Deviation_HT,TE_Upper_Thread_Limit
+1,,,,,,-1,,-1,70656
+2,,,,,,-1,,-1,70656
+4,,,,,,-1,,-1,70656
+8,,,,,,-1,,-1,70656
